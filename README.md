@@ -1,8 +1,10 @@
 # OCR Handwriting Comparison
 
-![Example of OCR Handwriting Comparison](images/Writing_scene.gif)
+<img width="1171" height="943" alt="image" src="https://github.com/user-attachments/assets/ab58b6db-4d20-40d1-a452-d43e73f7f436" />
 
 This project allows users to compare handwritten text recognition performance between different OCR (Optical Character Recognition) algorithms. It supports Pytesseract and EasyOCR algorithms and provides options to compare either letters or words from two uploaded images.
+
+View a walkthrough of the app [here.](https://www.youtube.com/watch?v=86uJw62Yxss)
 
 ## Table of Contents
 
@@ -59,6 +61,8 @@ streamlit run streamlit_app.py
 4. Click the button to create a juxtaposed collage for comparison.
 
 Note: The two uploaded images should be of high quality and resolution to enable the OCR algorithm to detect the letters and words effectively.
+
+![Example of OCR Handwriting Comparison](images/Writing_scene.gif)
 
 ---
 
