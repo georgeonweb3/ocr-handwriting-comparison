@@ -28,3 +28,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 # if using pytesseract, install Tesseract engine:
 # Ubuntu/Debian: sudo apt install tesseract-ocr
+
